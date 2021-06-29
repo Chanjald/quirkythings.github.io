@@ -1,0 +1,38 @@
+body{
+    marquee{
+    background-color: ;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    }
+}
+img
+{
+    border-radius:50%;
+}
+.course{
+    color:crimson;
+}
+
+.education{
+    color:darkgreen
+}
+
+#chanjal{
+    color:darkslategray;
+}
+
+#kajal{
+    color:deeppink;
+}
+
+#jasmin{
+    color:gold;
+}
+
+.calculation{
+    color:hotpink;
+}
+
+.calculation h1{
+    color:aqua; 
+}
